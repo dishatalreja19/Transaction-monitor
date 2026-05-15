@@ -43,7 +43,7 @@ class TransactionControllerIntegrationTest {
         ));
 
         transactionStore.save(new MonitoredTransaction(
-                transaction("tx-2", "sender-1", "receiver-2", "15000.00", "2026-01-01T10:01:00Z"),
+                transaction("tx-", "sender-1", "receiver-2", "15000.00", "2026-01-01T10:01:00Z"),
                 List.of(new Alert(
                         AlertType.LARGE_AMOUNT,
                         "Transaction amount exceeds configured threshold",
