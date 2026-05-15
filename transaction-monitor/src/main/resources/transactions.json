@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "TXN-00001",
+    "sender": "NL91ABNA0417164300",
+    "receiver": "DE89370400440532013000",
+    "amount": 125.50,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T08:02:14Z",
+    "reference": "Office supplies order OS-2024-0331"
+  },
+  {
+    "id": "TXN-00002",
+    "sender": "BE32145698723015",
+    "receiver": "FR7630006000011234567890189",
+    "amount": 3420.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T08:04:33Z",
+    "reference": "Invoice INV-2024-0872"
+  },
+  {
+    "id": "TXN-00003",
+    "sender": "NL91ABNA0417164300",
+    "receiver": "BE68539007547034",
+    "amount": 89.99,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T08:07:45Z",
+    "reference": "Subscription renewal - Cloud hosting"
+  },
+  {
+    "id": "TXN-00004",
+    "sender": "DE21500500009876543210",
+    "receiver": "GB29NWBK60161331926819",
+    "amount": 7650.00,
+    "currency": "GBP",
+    "timestamp": "2024-11-15T08:10:02Z",
+    "reference": "Consulting fee Q4-2024"
+  },
+  {
+    "id": "TXN-00005",
+    "sender": "FR7630006000011234567890189",
+    "receiver": "CH9300762011623852957",
+    "amount": 45.20,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T08:12:18Z",
+    "reference": "Coffee machine maintenance"
+  },
+  {
+    "id": "TXN-00006",
+    "sender": "NL91ABNA0417164300",
+    "receiver": "DE21500500009876543210",
+    "amount": 152.30,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T08:15:00Z",
+    "reference": "Stationery order ref PO-44821"
+  },
+  {
+    "id": "TXN-00007",
+    "sender": "GB82WEST12345698765432",
+    "receiver": "IE29AIBK93115212345678",
+    "amount": 1890.00,
+    "currency": "GBP",
+    "timestamp": "2024-11-15T08:17:30Z",
+    "reference": "Monthly rent payment - November 2024"
+  },
+  {
+    "id": "TXN-00008",
+    "sender": "AT611904300234573201",
+    "receiver": "DE89370400440532013000",
+    "amount": 540.75,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T08:20:11Z",
+    "reference": "Invoice INV-2024-0901"
+  },
+  {
+    "id": "TXN-00009",
+    "sender": "FR7630006000011234567890189",
+    "receiver": "NL39RABO0300065264",
+    "amount": 62.40,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T08:22:44Z",
+    "reference": "Parking subscription December"
+  },
+  {
+    "id": "TXN-00010",
+    "sender": "CH9300762011623852957",
+    "receiver": "DE44500105175407324931",
+    "amount": 4200.00,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T08:25:09Z",
+    "reference": "Salary advance November 2024"
+  },
+  {
+    "id": "TXN-00011",
+    "sender": "NL91ABNA0417164300",
+    "receiver": "FR7630006000011234567890189",
+    "amount": 178.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T08:28:33Z",
+    "reference": "Software license renewal - Adobe CC"
+  },
+  {
+    "id": "TXN-00012",
+    "sender": "ES9121000418450200051332",
+    "receiver": "PT50000201231234567890154",
+    "amount": 2310.50,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T08:31:55Z",
+    "reference": "Wire transfer ref WR-88432"
+  },
+  {
+    "id": "TXN-00013",
+    "sender": "DE89370400440532013000",
+    "receiver": "NL91ABNA0417164300",
+    "amount": 25000.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T08:35:20Z",
+    "reference": "Equipment purchase - Server rack installation"
+  },
+  {
+    "id": "TXN-00014",
+    "sender": "FR7630006000011234567890189",
+    "receiver": "BE32145698723015",
+    "amount": 33.80,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T08:38:41Z",
+    "reference": "Lunch vouchers November batch"
+  },
+  {
+    "id": "TXN-00015",
+    "sender": "IT60X0542811101000000123456",
+    "receiver": "GB29NWBK60161331926819",
+    "amount": 870.25,
+    "currency": "GBP",
+    "timestamp": "2024-11-15T08:41:05Z",
+    "reference": "Translation services - Contract T-2024-113"
+  },
+  {
+    "id": "TXN-00016",
+    "sender": "NL91ABNA0417164300",
+    "receiver": "AT611904300234573201",
+    "amount": 64.90,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T08:44:22Z",
+    "reference": "Courier service DHL-9928374"
+  },
+  {
+    "id": "TXN-00017",
+    "sender": "BE68539007547034",
+    "receiver": "DE21500500009876543210",
+    "amount": 5500.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T08:47:38Z",
+    "reference": "Salary November 2024 - J. Vermeer"
+  },
+  {
+    "id": "TXN-00018",
+    "sender": "LU280019400644750000",
+    "receiver": "CH9300762011623852957",
+    "amount": 1245.00,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T08:50:15Z",
+    "reference": "Insurance premium Q4-2024"
+  },
+  {
+    "id": "TXN-00019",
+    "sender": "FR7630006000011234567890189",
+    "receiver": "ES9121000418450200051332",
+    "amount": 77.50,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T08:53:30Z",
+    "reference": "Domain renewal intix-tech.eu"
+  },
+  {
+    "id": "TXN-00020",
+    "sender": "NL91ABNA0417164300",
+    "receiver": "LU280019400644750000",
+    "amount": 110.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T08:56:48Z",
+    "reference": "Phone bill November 2024"
+  },
+  {
+    "id": "TXN-00021",
+    "sender": "GB29NWBK60161331926819",
+    "receiver": "IE29AIBK93115212345678",
+    "amount": 15750.00,
+    "currency": "GBP",
+    "timestamp": "2024-11-15T09:00:10Z",
+    "reference": "Property deposit - Unit 4B Kensington"
+  },
+  {
+    "id": "TXN-00022",
+    "sender": "DE44500105175407324931",
+    "receiver": "AT611904300234573201",
+    "amount": 620.30,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T09:03:25Z",
+    "reference": "Office furniture invoice OF-2024-0556"
+  },
+  {
+    "id": "TXN-00023",
+    "sender": "NL39RABO0300065264",
+    "receiver": "BE68539007547034",
+    "amount": 3150.75,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T09:06:40Z",
+    "reference": "Marketing campaign - Social media Q4"
+  },
+  {
+    "id": "TXN-00024",
+    "sender": "PT50000201231234567890154",
+    "receiver": "ES9121000418450200051332",
+    "amount": 445.60,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T09:09:15Z",
+    "reference": "Travel expenses reimbursement - Lisbon trip"
+  },
+  {
+    "id": "TXN-00025",
+    "sender": "NL91ABNA0417164300",
+    "receiver": "GB82WEST12345698765432",
+    "amount": 195.00,
+    "currency": "GBP",
+    "timestamp": "2024-11-15T09:12:30Z",
+    "reference": "Book order - Technical library"
+  },
+  {
+    "id": "TXN-00026",
+    "sender": "FR7630006000011234567890189",
+    "receiver": "IT60X0542811101000000123456",
+    "amount": 58.90,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T09:15:44Z",
+    "reference": "Cloud storage upgrade - Dropbox Business"
+  },
+  {
+    "id": "TXN-00027",
+    "sender": "CH5604835012345678009",
+    "receiver": "DE89370400440532013000",
+    "amount": 8900.00,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T09:18:58Z",
+    "reference": "Audit services - FY2024 interim"
+  },
+  {
+    "id": "TXN-00028",
+    "sender": "IE29AIBK93115212345678",
+    "receiver": "GB82WEST12345698765432",
+    "amount": 2780.00,
+    "currency": "GBP",
+    "timestamp": "2024-11-15T09:22:13Z",
+    "reference": "Software development milestone M3"
+  },
+  {
+    "id": "TXN-00029",
+    "sender": "BE32145698723015",
+    "receiver": "NL39RABO0300065264",
+    "amount": 175.40,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T09:25:30Z",
+    "reference": "Catering service - Team event Nov 20"
+  },
+  {
+    "id": "TXN-00030",
+    "sender": "NL91ABNA0417164300",
+    "receiver": "CH5604835012345678009",
+    "amount": 142.75,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T09:28:45Z",
+    "reference": "VPN service annual renewal"
+  },
+  {
+    "id": "TXN-00031",
+    "sender": "DE21500500009876543210",
+    "receiver": "LU280019400644750000",
+    "amount": 50000.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T09:32:00Z",
+    "reference": "Capital investment - Fund allocation Q4"
+  },
+  {
+    "id": "TXN-00032",
+    "sender": "AT611904300234573201",
+    "receiver": "IT60X0542811101000000123456",
+    "amount": 990.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T09:35:18Z",
+    "reference": "Training course - AWS certification"
+  },
+  {
+    "id": "TXN-00033",
+    "sender": "ES9121000418450200051332",
+    "receiver": "FR7630006000011234567890189",
+    "amount": 1560.25,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T09:38:35Z",
+    "reference": "Legal consultation fees - November"
+  },
+  {
+    "id": "TXN-00034",
+    "sender": "GB82WEST12345698765432",
+    "receiver": "DE44500105175407324931",
+    "amount": 4320.00,
+    "currency": "USD",
+    "timestamp": "2024-11-15T09:41:50Z",
+    "reference": "API integration service - Phase 2"
+  },
+  {
+    "id": "TXN-00035",
+    "sender": "NL91ABNA0417164300",
+    "receiver": "ES9121000418450200051332",
+    "amount": 88.50,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T09:44:05Z",
+    "reference": "Printing services - Brochures batch 12"
+  },
+  {
+    "id": "TXN-00036",
+    "sender": "NL91ABNA0417164300",
+    "receiver": "DE89370400440532013000",
+    "amount": 15000.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T09:45:00Z",
+    "reference": "Bulk equipment procurement - Warehouse expansion"
+  },
+  {
+    "id": "TXN-00037",
+    "sender": "FR7630006000011234567890189",
+    "receiver": "NL91ABNA0417164300",
+    "amount": 42.10,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T09:48:20Z",
+    "reference": "Postage stamps bulk purchase"
+  },
+  {
+    "id": "TXN-00038",
+    "sender": "LU280019400644750000",
+    "receiver": "BE32145698723015",
+    "amount": 6750.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T09:51:38Z",
+    "reference": "Salary November 2024 - A. Dumont"
+  },
+  {
+    "id": "TXN-00039",
+    "sender": "IT60X0542811101000000123456",
+    "receiver": "CH9300762011623852957",
+    "amount": 315.90,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T09:54:55Z",
+    "reference": "Freight charges - Shipment SH-7742"
+  },
+  {
+    "id": "TXN-00040",
+    "sender": "DE89370400440532013000",
+    "receiver": "GB29NWBK60161331926819",
+    "amount": 2100.00,
+    "currency": "GBP",
+    "timestamp": "2024-11-15T09:58:10Z",
+    "reference": "Conference registration - DevOps Summit 2024"
+  },
+  {
+    "id": "TXN-00041",
+    "sender": "SE4550000000058398257466",
+    "receiver": "DE21500500009876543210",
+    "amount": 12500.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T10:01:25Z",
+    "reference": "Machinery lease payment - CNC unit"
+  },
+  {
+    "id": "TXN-00042",
+    "sender": "BE68539007547034",
+    "receiver": "NL39RABO0300065264",
+    "amount": 430.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T10:04:40Z",
+    "reference": "Cleaning services contract - November"
+  },
+  {
+    "id": "TXN-00043",
+    "sender": "NL39RABO0300065264",
+    "receiver": "DE44500105175407324931",
+    "amount": 1875.50,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T10:07:55Z",
+    "reference": "IT support contract monthly fee"
+  },
+  {
+    "id": "TXN-00044",
+    "sender": "PT50000201231234567890154",
+    "receiver": "FR7630006000011234567890189",
+    "amount": 520.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T10:11:10Z",
+    "reference": "Invoice INV-2024-1102"
+  },
+  {
+    "id": "TXN-00045",
+    "sender": "CH9300762011623852957",
+    "receiver": "AT611904300234573201",
+    "amount": 8250.00,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T10:14:28Z",
+    "reference": "Project milestone payment - ERP upgrade"
+  },
+  {
+    "id": "TXN-00046",
+    "sender": "GB29NWBK60161331926819",
+    "receiver": "SE4550000000058398257466",
+    "amount": 945.30,
+    "currency": "GBP",
+    "timestamp": "2024-11-15T10:17:42Z",
+    "reference": "Shipping costs - Nordic delivery batch"
+  },
+  {
+    "id": "TXN-00047",
+    "sender": "DE44500105175407324931",
+    "receiver": "ES9121000418450200051332",
+    "amount": 3600.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T10:20:55Z",
+    "reference": "Salary November 2024 - M. Garcia"
+  },
+  {
+    "id": "TXN-00048",
+    "sender": "IE29AIBK93115212345678",
+    "receiver": "NL91ABNA0417164300",
+    "amount": 255.80,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T10:24:10Z",
+    "reference": "Software bug bounty payout #447"
+  },
+  {
+    "id": "TXN-00049",
+    "sender": "FR7630006000011234567890189",
+    "receiver": "DE21500500009876543210",
+    "amount": 71.25,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T10:27:28Z",
+    "reference": "Magazine subscription - Tech Monthly"
+  },
+  {
+    "id": "TXN-00050",
+    "sender": "BE68539007547034",
+    "receiver": "DE89370400440532013000",
+    "amount": 150.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T10:30:00Z",
+    "reference": "Office snack supply order Nov week 3"
+  },
+  {
+    "id": "TXN-00051",
+    "sender": "BE68539007547034",
+    "receiver": "NL91ABNA0417164300",
+    "amount": 12500.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T10:30:12Z",
+    "reference": "Urgent equipment order - Server replacement"
+  },
+  {
+    "id": "TXN-00052",
+    "sender": "BE68539007547034",
+    "receiver": "FR7630006000011234567890189",
+    "amount": 320.50,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T10:30:25Z",
+    "reference": "Vendor payment - Parts express delivery"
+  },
+  {
+    "id": "TXN-00053",
+    "sender": "BE68539007547034",
+    "receiver": "CH9300762011623852957",
+    "amount": 475.00,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T10:30:33Z",
+    "reference": "Expedited component shipment CH-ref-9923"
+  },
+  {
+    "id": "TXN-00054",
+    "sender": "BE68539007547034",
+    "receiver": "AT611904300234573201",
+    "amount": 210.75,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T10:30:45Z",
+    "reference": "Rush order - Replacement cables batch"
+  },
+  {
+    "id": "TXN-00055",
+    "sender": "AT611904300234573201",
+    "receiver": "GB82WEST12345698765432",
+    "amount": 1340.00,
+    "currency": "GBP",
+    "timestamp": "2024-11-15T10:34:00Z",
+    "reference": "Graphic design services - Brand refresh"
+  },
+  {
+    "id": "TXN-00056",
+    "sender": "ES9121000418450200051332",
+    "receiver": "NL39RABO0300065264",
+    "amount": 785.40,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T10:37:15Z",
+    "reference": "Warehouse storage fees - November"
+  },
+  {
+    "id": "TXN-00057",
+    "sender": "DE21500500009876543210",
+    "receiver": "FR7630006000011234567890189",
+    "amount": 4560.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T10:40:30Z",
+    "reference": "Salary November 2024 - P. Laurent"
+  },
+  {
+    "id": "TXN-00058",
+    "sender": "CH5604835012345678009",
+    "receiver": "LU280019400644750000",
+    "amount": 2890.75,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T10:43:48Z",
+    "reference": "Tax advisory services - Annual filing"
+  },
+  {
+    "id": "TXN-00059",
+    "sender": "NL39RABO0300065264",
+    "receiver": "IE29AIBK93115212345678",
+    "amount": 630.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T10:47:02Z",
+    "reference": "Invoice INV-2024-1156"
+  },
+  {
+    "id": "TXN-00060",
+    "sender": "GB82WEST12345698765432",
+    "receiver": "BE32145698723015",
+    "amount": 18500.00,
+    "currency": "GBP",
+    "timestamp": "2024-11-15T10:50:18Z",
+    "reference": "Real estate commission - Property 7B Mayfair"
+  },
+  {
+    "id": "TXN-00061",
+    "sender": "IT60X0542811101000000123456",
+    "receiver": "DE44500105175407324931",
+    "amount": 1120.50,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T10:53:33Z",
+    "reference": "Logistics coordination fee - Milan shipment"
+  },
+  {
+    "id": "TXN-00062",
+    "sender": "LU280019400644750000",
+    "receiver": "NL91ABNA0417164300",
+    "amount": 485.20,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T10:56:48Z",
+    "reference": "Refund - Overpayment on invoice INV-2024-0788"
+  },
+  {
+    "id": "TXN-00063",
+    "sender": "DE44500105175407324931",
+    "receiver": "PT50000201231234567890154",
+    "amount": 2340.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T11:00:05Z",
+    "reference": "Outsourced QA testing - Sprint 14"
+  },
+  {
+    "id": "TXN-00064",
+    "sender": "SE4550000000058398257466",
+    "receiver": "CH9300762011623852957",
+    "amount": 7800.00,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T11:03:20Z",
+    "reference": "Partnership agreement advance - Nordic Tech"
+  },
+  {
+    "id": "TXN-00065",
+    "sender": "FR7630006000011234567890189",
+    "receiver": "GB82WEST12345698765432",
+    "amount": 54.30,
+    "currency": "GBP",
+    "timestamp": "2024-11-15T11:06:38Z",
+    "reference": "SSL certificate renewal - wildcard"
+  },
+  {
+    "id": "TXN-00066",
+    "sender": "BE32145698723015",
+    "receiver": "DE89370400440532013000",
+    "amount": 6200.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T11:09:52Z",
+    "reference": "Monthly office lease - Brussels HQ"
+  },
+  {
+    "id": "TXN-00067",
+    "sender": "NL39RABO0300065264",
+    "receiver": "AT611904300234573201",
+    "amount": 380.90,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T11:13:08Z",
+    "reference": "Electricity bill - Warehouse Nov 2024"
+  },
+  {
+    "id": "TXN-00068",
+    "sender": "GB29NWBK60161331926819",
+    "receiver": "LU280019400644750000",
+    "amount": 4150.00,
+    "currency": "USD",
+    "timestamp": "2024-11-15T11:16:25Z",
+    "reference": "Investment fund contribution - Monthly"
+  },
+  {
+    "id": "TXN-00069",
+    "sender": "DE89370400440532013000",
+    "receiver": "SE4550000000058398257466",
+    "amount": 1575.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T11:19:40Z",
+    "reference": "Freight forwarding - Hamburg to Stockholm"
+  },
+  {
+    "id": "TXN-00070",
+    "sender": "AT611904300234573201",
+    "receiver": "NL39RABO0300065264",
+    "amount": 890.50,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T11:22:55Z",
+    "reference": "Security system maintenance - Q4"
+  },
+  {
+    "id": "TXN-00071",
+    "sender": "CH9300762011623852957",
+    "receiver": "FR7630006000011234567890189",
+    "amount": 3250.00,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T11:26:10Z",
+    "reference": "Wire transfer ref WR-90125"
+  },
+  {
+    "id": "TXN-00072",
+    "sender": "ES9121000418450200051332",
+    "receiver": "GB29NWBK60161331926819",
+    "amount": 720.60,
+    "currency": "GBP",
+    "timestamp": "2024-11-15T11:29:28Z",
+    "reference": "Hotel booking - London business trip"
+  },
+  {
+    "id": "TXN-00073",
+    "sender": "PT50000201231234567890154",
+    "receiver": "DE21500500009876543210",
+    "amount": 2945.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T11:32:42Z",
+    "reference": "Product samples - New line testing"
+  },
+  {
+    "id": "TXN-00074",
+    "sender": "IE29AIBK93115212345678",
+    "receiver": "BE68539007547034",
+    "amount": 1650.25,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T11:35:58Z",
+    "reference": "Invoice INV-2024-1210"
+  },
+  {
+    "id": "TXN-00075",
+    "sender": "DK5000400440116243",
+    "receiver": "SE4550000000058398257466",
+    "amount": 5600.00,
+    "currency": "USD",
+    "timestamp": "2024-11-15T11:39:15Z",
+    "reference": "Scandinavian trade fair booth rental"
+  },
+  {
+    "id": "TXN-00076",
+    "sender": "DE44500105175407324931",
+    "receiver": "CH5604835012345678009",
+    "amount": 1980.00,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T11:42:30Z",
+    "reference": "Compliance audit preparation"
+  },
+  {
+    "id": "TXN-00077",
+    "sender": "BE68539007547034",
+    "receiver": "IT60X0542811101000000123456",
+    "amount": 345.75,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T11:45:48Z",
+    "reference": "Spare parts order - Printer maintenance"
+  },
+  {
+    "id": "TXN-00078",
+    "sender": "NL91ABNA0417164300",
+    "receiver": "PT50000201231234567890154",
+    "amount": 199.99,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T11:49:02Z",
+    "reference": "Employee gift cards - Team appreciation"
+  },
+  {
+    "id": "TXN-00079",
+    "sender": "GB82WEST12345698765432",
+    "receiver": "DE89370400440532013000",
+    "amount": 22000.00,
+    "currency": "USD",
+    "timestamp": "2024-11-15T11:52:18Z",
+    "reference": "Annual software licensing - Enterprise suite"
+  },
+  {
+    "id": "TXN-00080",
+    "sender": "LU280019400644750000",
+    "receiver": "ES9121000418450200051332",
+    "amount": 810.40,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T11:55:35Z",
+    "reference": "Travel insurance - Business group policy"
+  },
+  {
+    "id": "TXN-00081",
+    "sender": "FR7630006000011234567890189",
+    "receiver": "AT611904300234573201",
+    "amount": 66.70,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T11:58:48Z",
+    "reference": "Newspaper delivery service - Monthly"
+  },
+  {
+    "id": "TXN-00082",
+    "sender": "CH5604835012345678009",
+    "receiver": "NL39RABO0300065264",
+    "amount": 4750.00,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T12:02:05Z",
+    "reference": "Financial planning consultancy"
+  },
+  {
+    "id": "TXN-00083",
+    "sender": "DE21500500009876543210",
+    "receiver": "IE29AIBK93115212345678",
+    "amount": 1435.80,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T12:05:20Z",
+    "reference": "Research collaboration payment"
+  },
+  {
+    "id": "TXN-00084",
+    "sender": "AT611904300234573201",
+    "receiver": "BE32145698723015",
+    "amount": 590.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T12:08:38Z",
+    "reference": "Monthly water bill - Office complex"
+  },
+  {
+    "id": "TXN-00085",
+    "sender": "NL39RABO0300065264",
+    "receiver": "GB29NWBK60161331926819",
+    "amount": 2680.50,
+    "currency": "GBP",
+    "timestamp": "2024-11-15T12:11:52Z",
+    "reference": "Invoice INV-2024-1245"
+  },
+  {
+    "id": "TXN-00086",
+    "sender": "ES9121000418450200051332",
+    "receiver": "DE44500105175407324931",
+    "amount": 1230.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T12:15:08Z",
+    "reference": "Temporary staff agency fees - November"
+  },
+  {
+    "id": "TXN-00087",
+    "sender": "SE4550000000058398257466",
+    "receiver": "FR7630006000011234567890189",
+    "amount": 3890.25,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T12:18:25Z",
+    "reference": "Data analytics platform subscription"
+  },
+  {
+    "id": "TXN-00088",
+    "sender": "IT60X0542811101000000123456",
+    "receiver": "LU280019400644750000",
+    "amount": 475.30,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T12:21:40Z",
+    "reference": "Customs duties payment - Import batch 44"
+  },
+  {
+    "id": "TXN-00089",
+    "sender": "GB29NWBK60161331926819",
+    "receiver": "CH9300762011623852957",
+    "amount": 5100.00,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T12:24:55Z",
+    "reference": "Cross-border payment - Swiss subsidiary"
+  },
+  {
+    "id": "TXN-00090",
+    "sender": "DE89370400440532013000",
+    "receiver": "PT50000201231234567890154",
+    "amount": 1845.60,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T12:28:10Z",
+    "reference": "Manufacturing subcontract - November batch"
+  },
+  {
+    "id": "TXN-00091",
+    "sender": "DK5000400440116243",
+    "receiver": "NL91ABNA0417164300",
+    "amount": 720.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T12:31:28Z",
+    "reference": "Shipping container rental - Route DK-NL"
+  },
+  {
+    "id": "TXN-00092",
+    "sender": "BE32145698723015",
+    "receiver": "SE4550000000058398257466",
+    "amount": 4100.00,
+    "currency": "USD",
+    "timestamp": "2024-11-15T12:34:42Z",
+    "reference": "Marketing analytics report - Annual"
+  },
+  {
+    "id": "TXN-00093",
+    "sender": "CH9300762011623852957",
+    "receiver": "GB82WEST12345698765432",
+    "amount": 2560.75,
+    "currency": "GBP",
+    "timestamp": "2024-11-15T12:37:58Z",
+    "reference": "Wire transfer ref WR-91204"
+  },
+  {
+    "id": "TXN-00094",
+    "sender": "PT50000201231234567890154",
+    "receiver": "AT611904300234573201",
+    "amount": 680.90,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T12:41:15Z",
+    "reference": "Invoice INV-2024-1289"
+  },
+  {
+    "id": "TXN-00095",
+    "sender": "DE44500105175407324931",
+    "receiver": "NL39RABO0300065264",
+    "amount": 1790.50,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T12:44:30Z",
+    "reference": "Payroll processing fees - November"
+  },
+  {
+    "id": "TXN-00096",
+    "sender": "LU280019400644750000",
+    "receiver": "DE21500500009876543210",
+    "amount": 35000.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T12:47:45Z",
+    "reference": "Bond maturity settlement - Series B"
+  },
+  {
+    "id": "TXN-00097",
+    "sender": "IE29AIBK93115212345678",
+    "receiver": "FR7630006000011234567890189",
+    "amount": 945.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T12:51:00Z",
+    "reference": "Regulatory filing assistance"
+  },
+  {
+    "id": "TXN-00098",
+    "sender": "NL91ABNA0417164300",
+    "receiver": "DK5000400440116243",
+    "amount": 2250.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T12:54:18Z",
+    "reference": "Logistics coordination - Nordic route"
+  },
+  {
+    "id": "TXN-00099",
+    "sender": "GB82WEST12345698765432",
+    "receiver": "ES9121000418450200051332",
+    "amount": 1375.40,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T12:57:32Z",
+    "reference": "Photography services - Product catalog"
+  },
+  {
+    "id": "TXN-00100",
+    "sender": "FR7630006000011234567890189",
+    "receiver": "BE68539007547034",
+    "amount": 39.95,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T13:00:48Z",
+    "reference": "Antivirus license renewal - Single seat"
+  },
+  {
+    "id": "TXN-00101",
+    "sender": "DE89370400440532013000",
+    "receiver": "CH5604835012345678009",
+    "amount": 6340.00,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T13:04:05Z",
+    "reference": "Intercompany transfer - Swiss operations"
+  },
+  {
+    "id": "TXN-00102",
+    "sender": "SE4550000000058398257466",
+    "receiver": "IT60X0542811101000000123456",
+    "amount": 2150.30,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T13:07:20Z",
+    "reference": "Product testing lab fees"
+  },
+  {
+    "id": "TXN-00103",
+    "sender": "BE68539007547034",
+    "receiver": "LU280019400644750000",
+    "amount": 1560.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T13:10:38Z",
+    "reference": "Pension fund contribution - Employee pool"
+  },
+  {
+    "id": "TXN-00104",
+    "sender": "AT611904300234573201",
+    "receiver": "DE44500105175407324931",
+    "amount": 420.60,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T13:13:52Z",
+    "reference": "Gas bill - Office heating November"
+  },
+  {
+    "id": "TXN-00105",
+    "sender": "NL39RABO0300065264",
+    "receiver": "SE4550000000058398257466",
+    "amount": 3470.00,
+    "currency": "USD",
+    "timestamp": "2024-11-15T13:17:08Z",
+    "reference": "SaaS platform license - Team plan"
+  },
+  {
+    "id": "TXN-00106",
+    "sender": "GB29NWBK60161331926819",
+    "receiver": "PT50000201231234567890154",
+    "amount": 1890.75,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T13:20:25Z",
+    "reference": "Trade show materials - Print order"
+  },
+  {
+    "id": "TXN-00107",
+    "sender": "DE21500500009876543210",
+    "receiver": "NL91ABNA0417164300",
+    "amount": 4680.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T13:23:40Z",
+    "reference": "Salary November 2024 - K. van Dijk"
+  },
+  {
+    "id": "TXN-00108",
+    "sender": "CH9300762011623852957",
+    "receiver": "IE29AIBK93115212345678",
+    "amount": 2750.00,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T13:26:55Z",
+    "reference": "Patent filing assistance fees"
+  },
+  {
+    "id": "TXN-00109",
+    "sender": "ES9121000418450200051332",
+    "receiver": "BE32145698723015",
+    "amount": 590.30,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T13:30:10Z",
+    "reference": "Vehicle fleet fuel costs - November"
+  },
+  {
+    "id": "TXN-00110",
+    "sender": "IT60X0542811101000000123456",
+    "receiver": "DE89370400440532013000",
+    "amount": 8425.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T13:33:28Z",
+    "reference": "Raw materials order - Steel shipment"
+  },
+  {
+    "id": "TXN-00111",
+    "sender": "FR7630006000011234567890189",
+    "receiver": "NL39RABO0300065264",
+    "amount": 48.60,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T13:36:42Z",
+    "reference": "Recycling service fee - November"
+  },
+  {
+    "id": "TXN-00112",
+    "sender": "DK5000400440116243",
+    "receiver": "GB29NWBK60161331926819",
+    "amount": 3200.00,
+    "currency": "GBP",
+    "timestamp": "2024-11-15T13:39:58Z",
+    "reference": "Consulting engagement - Digital strategy"
+  },
+  {
+    "id": "TXN-00113",
+    "sender": "LU280019400644750000",
+    "receiver": "AT611904300234573201",
+    "amount": 1125.50,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T13:43:15Z",
+    "reference": "Office renovation payment - Phase 1"
+  },
+  {
+    "id": "TXN-00114",
+    "sender": "PT50000201231234567890154",
+    "receiver": "CH9300762011623852957",
+    "amount": 560.80,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T13:46:30Z",
+    "reference": "Invoice INV-2024-1312"
+  },
+  {
+    "id": "TXN-00115",
+    "sender": "DE44500105175407324931",
+    "receiver": "FR7630006000011234567890189",
+    "amount": 2890.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T13:49:45Z",
+    "reference": "R&D collaboration fees - BioTech project"
+  },
+  {
+    "id": "TXN-00116",
+    "sender": "BE32145698723015",
+    "receiver": "GB82WEST12345698765432",
+    "amount": 4550.25,
+    "currency": "GBP",
+    "timestamp": "2024-11-15T13:53:00Z",
+    "reference": "Architecture consultancy - New wing"
+  },
+  {
+    "id": "TXN-00117",
+    "sender": "NL91ABNA0417164300",
+    "receiver": "IT60X0542811101000000123456",
+    "amount": 310.40,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T13:56:18Z",
+    "reference": "Office plant maintenance contract"
+  },
+  {
+    "id": "TXN-00118",
+    "sender": "GB82WEST12345698765432",
+    "receiver": "LU280019400644750000",
+    "amount": 7250.00,
+    "currency": "USD",
+    "timestamp": "2024-11-15T13:59:32Z",
+    "reference": "Asset management quarterly fee"
+  },
+  {
+    "id": "TXN-00119",
+    "sender": "SE4550000000058398257466",
+    "receiver": "DE21500500009876543210",
+    "amount": 1680.90,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T14:02:48Z",
+    "reference": "Environmental compliance report"
+  },
+  {
+    "id": "TXN-00120",
+    "sender": "IE29AIBK93115212345678",
+    "receiver": "NL91ABNA0417164300",
+    "amount": 890.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T14:06:05Z",
+    "reference": "Database migration support"
+  },
+  {
+    "id": "TXN-00121",
+    "sender": "CH5604835012345678009",
+    "receiver": "ES9121000418450200051332",
+    "amount": 3150.60,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T14:09:20Z",
+    "reference": "Market research report - Iberian region"
+  },
+  {
+    "id": "TXN-00122",
+    "sender": "DE89370400440532013000",
+    "receiver": "BE68539007547034",
+    "amount": 5420.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T14:12:38Z",
+    "reference": "Salary November 2024 - T. Janssens"
+  },
+  {
+    "id": "TXN-00123",
+    "sender": "DE44500105175407324931",
+    "receiver": "NL91ABNA0417164300",
+    "amount": 245.30,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T14:15:10Z",
+    "reference": "Express courier - Document delivery batch"
+  },
+  {
+    "id": "TXN-00124",
+    "sender": "DE44500105175407324931",
+    "receiver": "FR7630006000011234567890189",
+    "amount": 180.50,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T14:15:22Z",
+    "reference": "Office supplies restock - Urgent"
+  },
+  {
+    "id": "TXN-00125",
+    "sender": "DE44500105175407324931",
+    "receiver": "GB82WEST12345698765432",
+    "amount": 312.00,
+    "currency": "GBP",
+    "timestamp": "2024-11-15T14:15:38Z",
+    "reference": "Technical manual printing - Rush order"
+  },
+  {
+    "id": "TXN-00126",
+    "sender": "DE44500105175407324931",
+    "receiver": "AT611904300234573201",
+    "amount": 425.75,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T14:15:55Z",
+    "reference": "Component express shipment AT-batch-221"
+  },
+  {
+    "id": "TXN-00127",
+    "sender": "NL39RABO0300065264",
+    "receiver": "DE89370400440532013000",
+    "amount": 1950.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T14:19:10Z",
+    "reference": "Invoice INV-2024-1334"
+  },
+  {
+    "id": "TXN-00128",
+    "sender": "GB29NWBK60161331926819",
+    "receiver": "IT60X0542811101000000123456",
+    "amount": 2430.80,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T14:22:25Z",
+    "reference": "Quality certification process"
+  },
+  {
+    "id": "TXN-00129",
+    "sender": "AT611904300234573201",
+    "receiver": "CH5604835012345678009",
+    "amount": 3680.00,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T14:25:40Z",
+    "reference": "Swiss compliance registration"
+  },
+  {
+    "id": "TXN-00130",
+    "sender": "FR7630006000011234567890189",
+    "receiver": "DK5000400440116243",
+    "amount": 55.40,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T14:28:58Z",
+    "reference": "Video conferencing platform - Monthly"
+  },
+  {
+    "id": "TXN-00131",
+    "sender": "ES9121000418450200051332",
+    "receiver": "LU280019400644750000",
+    "amount": 14200.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T14:32:12Z",
+    "reference": "Annual membership - European Trade Association"
+  },
+  {
+    "id": "TXN-00132",
+    "sender": "BE68539007547034",
+    "receiver": "SE4550000000058398257466",
+    "amount": 2310.50,
+    "currency": "USD",
+    "timestamp": "2024-11-15T14:35:28Z",
+    "reference": "Recruitment platform subscription"
+  },
+  {
+    "id": "TXN-00133",
+    "sender": "DE21500500009876543210",
+    "receiver": "PT50000201231234567890154",
+    "amount": 4870.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T14:38:45Z",
+    "reference": "Salary November 2024 - R. Silva"
+  },
+  {
+    "id": "TXN-00134",
+    "sender": "CH9300762011623852957",
+    "receiver": "NL39RABO0300065264",
+    "amount": 1540.25,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T14:42:00Z",
+    "reference": "Packaging material order - Winter stock"
+  },
+  {
+    "id": "TXN-00135",
+    "sender": "IT60X0542811101000000123456",
+    "receiver": "BE32145698723015",
+    "amount": 760.80,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T14:45:18Z",
+    "reference": "Translation services - Italian contracts"
+  },
+  {
+    "id": "TXN-00136",
+    "sender": "LU280019400644750000",
+    "receiver": "GB29NWBK60161331926819",
+    "amount": 3350.00,
+    "currency": "GBP",
+    "timestamp": "2024-11-15T14:48:32Z",
+    "reference": "Wire transfer ref WR-92018"
+  },
+  {
+    "id": "TXN-00137",
+    "sender": "NL91ABNA0417164300",
+    "receiver": "DE44500105175407324931",
+    "amount": 445.90,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T14:51:48Z",
+    "reference": "Network equipment maintenance"
+  },
+  {
+    "id": "TXN-00138",
+    "sender": "DE44500105175407324931",
+    "receiver": "IE29AIBK93115212345678",
+    "amount": 2100.30,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T14:55:05Z",
+    "reference": "Cross-border settlement - Irish branch"
+  },
+  {
+    "id": "TXN-00139",
+    "sender": "GB82WEST12345698765432",
+    "receiver": "CH9300762011623852957",
+    "amount": 5890.00,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T14:58:20Z",
+    "reference": "Luxury goods procurement - Client gifts"
+  },
+  {
+    "id": "TXN-00140",
+    "sender": "SE4550000000058398257466",
+    "receiver": "AT611904300234573201",
+    "amount": 1245.60,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T15:01:38Z",
+    "reference": "Safety equipment order - Warehouse"
+  },
+  {
+    "id": "TXN-00141",
+    "sender": "DK5000400440116243",
+    "receiver": "FR7630006000011234567890189",
+    "amount": 2870.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T15:04:52Z",
+    "reference": "Joint venture contribution - Q4"
+  },
+  {
+    "id": "TXN-00142",
+    "sender": "PT50000201231234567890154",
+    "receiver": "NL91ABNA0417164300",
+    "amount": 930.45,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T15:08:08Z",
+    "reference": "Invoice INV-2024-1367"
+  },
+  {
+    "id": "TXN-00143",
+    "sender": "BE32145698723015",
+    "receiver": "DE44500105175407324931",
+    "amount": 1720.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T15:11:25Z",
+    "reference": "IT infrastructure monitoring service"
+  },
+  {
+    "id": "TXN-00144",
+    "sender": "AT611904300234573201",
+    "receiver": "ES9121000418450200051332",
+    "amount": 3590.75,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T15:14:40Z",
+    "reference": "Industrial supplies order - Batch 67"
+  },
+  {
+    "id": "TXN-00145",
+    "sender": "NL39RABO0300065264",
+    "receiver": "GB82WEST12345698765432",
+    "amount": 820.30,
+    "currency": "GBP",
+    "timestamp": "2024-11-15T15:17:55Z",
+    "reference": "Courier service - Priority international"
+  },
+  {
+    "id": "TXN-00146",
+    "sender": "DE89370400440532013000",
+    "receiver": "LU280019400644750000",
+    "amount": 4210.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T15:21:10Z",
+    "reference": "Fund administration fee - November"
+  },
+  {
+    "id": "TXN-00147",
+    "sender": "CH5604835012345678009",
+    "receiver": "BE68539007547034",
+    "amount": 1890.50,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T15:24:28Z",
+    "reference": "Anti-fraud software license"
+  },
+  {
+    "id": "TXN-00148",
+    "sender": "IE29AIBK93115212345678",
+    "receiver": "DE21500500009876543210",
+    "amount": 6750.00,
+    "currency": "USD",
+    "timestamp": "2024-11-15T15:27:42Z",
+    "reference": "Strategic partnership initiation fee"
+  },
+  {
+    "id": "TXN-00149",
+    "sender": "FR7630006000011234567890189",
+    "receiver": "SE4550000000058398257466",
+    "amount": 3000.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T15:30:00Z",
+    "reference": "Bulk procurement - Seasonal inventory"
+  },
+  {
+    "id": "TXN-00150",
+    "sender": "GB29NWBK60161331926819",
+    "receiver": "NL39RABO0300065264",
+    "amount": 2340.60,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T15:33:18Z",
+    "reference": "Employee relocation allowance"
+  },
+  {
+    "id": "TXN-00151",
+    "sender": "ES9121000418450200051332",
+    "receiver": "CH9300762011623852957",
+    "amount": 4780.00,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T15:36:32Z",
+    "reference": "Intellectual property registration"
+  },
+  {
+    "id": "TXN-00152",
+    "sender": "LU280019400644750000",
+    "receiver": "IT60X0542811101000000123456",
+    "amount": 1560.90,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T15:39:48Z",
+    "reference": "Courier - Confidential documents delivery"
+  },
+  {
+    "id": "TXN-00153",
+    "sender": "DE44500105175407324931",
+    "receiver": "BE32145698723015",
+    "amount": 3450.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T15:43:05Z",
+    "reference": "Monthly lease - Frankfurt office annex"
+  },
+  {
+    "id": "TXN-00154",
+    "sender": "BE68539007547034",
+    "receiver": "PT50000201231234567890154",
+    "amount": 675.40,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T15:46:20Z",
+    "reference": "Promotional merchandise - Q4 campaign"
+  },
+  {
+    "id": "TXN-00155",
+    "sender": "NL91ABNA0417164300",
+    "receiver": "DK5000400440116243",
+    "amount": 1430.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T15:49:38Z",
+    "reference": "Supply chain management system fee"
+  },
+  {
+    "id": "TXN-00156",
+    "sender": "AT611904300234573201",
+    "receiver": "FR7630006000011234567890189",
+    "amount": 42500.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T15:52:52Z",
+    "reference": "Factory equipment purchase - Assembly line"
+  },
+  {
+    "id": "TXN-00157",
+    "sender": "CH9300762011623852957",
+    "receiver": "DE89370400440532013000",
+    "amount": 2130.25,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T15:56:08Z",
+    "reference": "Pharmaceutical lab analysis fees"
+  },
+  {
+    "id": "TXN-00158",
+    "sender": "IT60X0542811101000000123456",
+    "receiver": "NL91ABNA0417164300",
+    "amount": 890.70,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T15:59:25Z",
+    "reference": "Wine tasting event - Corporate hospitality"
+  },
+  {
+    "id": "TXN-00159",
+    "sender": "DE21500500009876543210",
+    "receiver": "GB29NWBK60161331926819",
+    "amount": 5120.00,
+    "currency": "GBP",
+    "timestamp": "2024-11-15T16:02:40Z",
+    "reference": "Legal retainer fee - UK counsel"
+  },
+  {
+    "id": "TXN-00160",
+    "sender": "SE4550000000058398257466",
+    "receiver": "ES9121000418450200051332",
+    "amount": 1345.80,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T16:05:55Z",
+    "reference": "Employee benefits program - November"
+  },
+  {
+    "id": "TXN-00161",
+    "sender": "GB82WEST12345698765432",
+    "receiver": "AT611904300234573201",
+    "amount": 2690.50,
+    "currency": "USD",
+    "timestamp": "2024-11-15T16:09:10Z",
+    "reference": "Cybersecurity assessment report"
+  },
+  {
+    "id": "TXN-00162",
+    "sender": "NL39RABO0300065264",
+    "receiver": "CH5604835012345678009",
+    "amount": 4560.00,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T16:12:28Z",
+    "reference": "Financial instruments valuation"
+  },
+  {
+    "id": "TXN-00163",
+    "sender": "PT50000201231234567890154",
+    "receiver": "LU280019400644750000",
+    "amount": 780.25,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T16:15:42Z",
+    "reference": "Invoice INV-2024-1402"
+  },
+  {
+    "id": "TXN-00164",
+    "sender": "BE32145698723015",
+    "receiver": "IE29AIBK93115212345678",
+    "amount": 3870.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T16:18:58Z",
+    "reference": "Cross-border tax advisory"
+  },
+  {
+    "id": "TXN-00165",
+    "sender": "DE89370400440532013000",
+    "receiver": "NL91ABNA0417164300",
+    "amount": 1980.40,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T16:22:15Z",
+    "reference": "Vendor rebate payment - November"
+  },
+  {
+    "id": "TXN-00166",
+    "sender": "DK5000400440116243",
+    "receiver": "DE44500105175407324931",
+    "amount": 6100.00,
+    "currency": "USD",
+    "timestamp": "2024-11-15T16:25:30Z",
+    "reference": "Industrial automation components"
+  },
+  {
+    "id": "TXN-00167",
+    "sender": "CH5604835012345678009",
+    "receiver": "GB82WEST12345698765432",
+    "amount": 2450.75,
+    "currency": "GBP",
+    "timestamp": "2024-11-15T16:28:45Z",
+    "reference": "Executive coaching program"
+  },
+  {
+    "id": "TXN-00168",
+    "sender": "LU280019400644750000",
+    "receiver": "FR7630006000011234567890189",
+    "amount": 1670.30,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T16:32:00Z",
+    "reference": "Corporate event planning deposit"
+  },
+  {
+    "id": "TXN-00169",
+    "sender": "ES9121000418450200051332",
+    "receiver": "AT611904300234573201",
+    "amount": 920.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T16:35:18Z",
+    "reference": "Employee training - Safety certification"
+  },
+  {
+    "id": "TXN-00170",
+    "sender": "IE29AIBK93115212345678",
+    "receiver": "SE4550000000058398257466",
+    "amount": 4320.50,
+    "currency": "USD",
+    "timestamp": "2024-11-15T16:38:32Z",
+    "reference": "Cloud infrastructure migration"
+  },
+  {
+    "id": "TXN-00171",
+    "sender": "GB29NWBK60161331926819",
+    "receiver": "DE21500500009876543210",
+    "amount": 16800.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T16:41:48Z",
+    "reference": "Annual insurance premium - Fleet coverage"
+  },
+  {
+    "id": "TXN-00172",
+    "sender": "AT611904300234573201",
+    "receiver": "NL39RABO0300065264",
+    "amount": 530.60,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T16:45:05Z",
+    "reference": "Waste management services - November"
+  },
+  {
+    "id": "TXN-00173",
+    "sender": "NL91ABNA0417164300",
+    "receiver": "BE32145698723015",
+    "amount": 2780.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T16:48:20Z",
+    "reference": "Joint marketing campaign expenses"
+  },
+  {
+    "id": "TXN-00174",
+    "sender": "DE44500105175407324931",
+    "receiver": "CH9300762011623852957",
+    "amount": 3920.00,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T16:51:35Z",
+    "reference": "Swiss data center hosting - Monthly"
+  },
+  {
+    "id": "TXN-00175",
+    "sender": "FR7630006000011234567890189",
+    "receiver": "PT50000201231234567890154",
+    "amount": 67.80,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T16:54:48Z",
+    "reference": "Express shipping label purchase"
+  },
+  {
+    "id": "TXN-00176",
+    "sender": "BE68539007547034",
+    "receiver": "GB29NWBK60161331926819",
+    "amount": 1450.25,
+    "currency": "GBP",
+    "timestamp": "2024-11-15T16:58:05Z",
+    "reference": "International courier - Priority UK"
+  },
+  {
+    "id": "TXN-00177",
+    "sender": "CH9300762011623852957",
+    "receiver": "LU280019400644750000",
+    "amount": 6890.00,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T16:59:30Z",
+    "reference": "Wealth management advisory fee"
+  },
+  {
+    "id": "TXN-00178",
+    "sender": "SE4550000000058398257466",
+    "receiver": "IT60X0542811101000000123456",
+    "amount": 2145.90,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T16:59:45Z",
+    "reference": "Invoice INV-2024-1445"
+  },
+  {
+    "id": "TXN-00179",
+    "sender": "DE89370400440532013000",
+    "receiver": "AT611904300234573201",
+    "amount": 3475.20,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T17:00:05Z",
+    "reference": "Supplier payment - Mechanical parts"
+  },
+  {
+    "id": "TXN-00180",
+    "sender": "NL39RABO0300065264",
+    "receiver": "LU280019400644750000",
+    "amount": 1250.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T17:00:20Z",
+    "reference": "Tax advisory retainer - Monthly"
+  },
+  {
+    "id": "TXN-00181",
+    "sender": "IE29AIBK93115212345678",
+    "receiver": "GB82WEST12345698765432",
+    "amount": 560.30,
+    "currency": "GBP",
+    "timestamp": "2024-11-15T17:00:35Z",
+    "reference": "Office cleaning supplies - Q4 restock"
+  },
+  {
+    "id": "TXN-00182",
+    "sender": "CH5604835012345678009",
+    "receiver": "DE44500105175407324931",
+    "amount": 7200.00,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T17:00:50Z",
+    "reference": "Consulting retainer - Compliance review"
+  },
+  {
+    "id": "TXN-00183",
+    "sender": "PT50000201231234567890154",
+    "receiver": "BE68539007547034",
+    "amount": 890.15,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T17:01:05Z",
+    "reference": "Freight charges - Lisbon to Brussels"
+  },
+  {
+    "id": "TXN-00184",
+    "sender": "BE32145698723015",
+    "receiver": "NL91ABNA0417164300",
+    "amount": 4120.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T17:01:20Z",
+    "reference": "Shared office expenses - November split"
+  },
+  {
+    "id": "TXN-00185",
+    "sender": "GB29NWBK60161331926819",
+    "receiver": "FR7630006000011234567890189",
+    "amount": 1985.50,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T17:01:35Z",
+    "reference": "Event sponsorship - Tech Innovation Forum"
+  },
+  {
+    "id": "TXN-00186",
+    "sender": "ES9121000418450200051332",
+    "receiver": "DE89370400440532013000",
+    "amount": 2745.80,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T17:01:50Z",
+    "reference": "Invoice INV-2024-1456"
+  },
+  {
+    "id": "TXN-00187",
+    "sender": "AT611904300234573201",
+    "receiver": "CH9300762011623852957",
+    "amount": 1630.00,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T17:02:05Z",
+    "reference": "Customs brokerage fees - Import batch 51"
+  },
+  {
+    "id": "TXN-00188",
+    "sender": "DE21500500009876543210",
+    "receiver": "SE4550000000058398257466",
+    "amount": 3890.40,
+    "currency": "USD",
+    "timestamp": "2024-11-15T17:02:20Z",
+    "reference": "Salary November 2024 - L. Eriksson"
+  },
+  {
+    "id": "TXN-00189",
+    "sender": "DK5000400440116243",
+    "receiver": "IT60X0542811101000000123456",
+    "amount": 1475.25,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T17:02:35Z",
+    "reference": "Product certification testing fees"
+  },
+  {
+    "id": "TXN-00190",
+    "sender": "LU280019400644750000",
+    "receiver": "NL39RABO0300065264",
+    "amount": 820.60,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T17:02:50Z",
+    "reference": "Compliance monitoring platform"
+  },
+  {
+    "id": "TXN-00191",
+    "sender": "CH9300762011623852957",
+    "receiver": "BE32145698723015",
+    "amount": 5430.00,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T17:03:05Z",
+    "reference": "Wire transfer ref WR-93410"
+  },
+  {
+    "id": "TXN-00192",
+    "sender": "GB82WEST12345698765432",
+    "receiver": "IE29AIBK93115212345678",
+    "amount": 2175.90,
+    "currency": "GBP",
+    "timestamp": "2024-11-15T17:03:20Z",
+    "reference": "Market entry analysis - Irish market"
+  },
+  {
+    "id": "TXN-00193",
+    "sender": "IT60X0542811101000000123456",
+    "receiver": "ES9121000418450200051332",
+    "amount": 1340.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T17:03:35Z",
+    "reference": "Cross-dock logistics fee - Mediterranean"
+  },
+  {
+    "id": "TXN-00194",
+    "sender": "DE44500105175407324931",
+    "receiver": "GB29NWBK60161331926819",
+    "amount": 4785.30,
+    "currency": "GBP",
+    "timestamp": "2024-11-15T17:03:50Z",
+    "reference": "Annual maintenance contract renewal"
+  },
+  {
+    "id": "TXN-00195",
+    "sender": "NL91ABNA0417164300",
+    "receiver": "PT50000201231234567890154",
+    "amount": 670.45,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T17:04:05Z",
+    "reference": "Packaging design service - New product"
+  },
+  {
+    "id": "TXN-00196",
+    "sender": "BE68539007547034",
+    "receiver": "DE21500500009876543210",
+    "amount": 3250.00,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T17:04:20Z",
+    "reference": "Recruitment agency fee - Senior developer"
+  },
+  {
+    "id": "TXN-00197",
+    "sender": "SE4550000000058398257466",
+    "receiver": "CH5604835012345678009",
+    "amount": 1890.75,
+    "currency": "CHF",
+    "timestamp": "2024-11-15T17:04:35Z",
+    "reference": "Warranty claim processing"
+  },
+  {
+    "id": "TXN-00198",
+    "sender": "FR7630006000011234567890189",
+    "receiver": "LU280019400644750000",
+    "amount": 73.50,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T17:04:50Z",
+    "reference": "Office key duplication service"
+  },
+  {
+    "id": "TXN-00199",
+    "sender": "PT50000201231234567890154",
+    "receiver": "DE89370400440532013000",
+    "amount": 2560.20,
+    "currency": "EUR",
+    "timestamp": "2024-11-15T17:05:05Z",
+    "reference": "Warehouse inventory audit"
+  },
+  {
+    "id": "TXN-00200",
+    "sender": "DE89370400440532013000",
+    "receiver": "BE32145698723015",
+    "amount": 1745.80,
+    "currency": "USD",
+    "timestamp": "2024-11-15T17:05:20Z",
+    "reference": "End-of-day settlement - Interbank"
+  }
+]
