@@ -1,0 +1,65 @@
+apiVersion: apps/v1
+kind: Deployment
+
+metadata:
+  name: springboot-deployment
+
+spec:
+  replicas: {{ .Values.replicaCount }}
+
+  selector:
+    matchLabels:
+      app: springboot-app
+
+  template:
+    metadata:
+      labels:
+        app: springboot-app
+
+    spec:
+      containers:
+        - name: springboot-container
+          image: "{{ .Values.image.repository}}:{{ .Values.image.tag}}"
+          imagePullPolicy: Never
+
+          env:
+            - name: APP_ENV
+              valueFrom:
+                configMapKeyRef:
+                  name: springboot-config
+                  key: APP_ENV
+
+            - name: TEAM_NAME
+              valueFrom:
+                configMapKeyRef:
+                  name: springboot-config
+                  key: TEAM_NAME
+
+            - name: DB_USER
+              valueFrom:
+                secretKeyRef:
+                  name: springboot-secret
+                  key: DB_USER
+
+            - name: DB_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: springboot-secret
+                  key: DB_PASSWORD
+
+          ports:
+            - containerPort: 8080
+
+          readinessProbe:
+            httpGet:
+              path: /actuator/health
+              port: 8080
+            initialDelaySeconds: 20
+            periodSeconds: 5
+
+          livenessProbe:
+            httpGet:
+              path: /actuator/health
+              port: 8080
+            initialDelaySeconds: 30
+            periodSeconds: 10

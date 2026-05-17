@@ -68,3 +68,44 @@ output       alert reporter abstraction and stdout implementation
 rules        alert rule abstraction, rule engine, and rule implementations
 storage      transaction store abstraction and in-memory implementation
 ```
+
+```personal use contanarize and deploy image
+Docker commands:
+minikube start --driver=docker
+kubectl get pods -A
+kubectl apply -f k8/deployment.yaml
+kubectl describe pod springboot-deployment-86cb4bbd58-c22p6
+kubectl get nodes
+docker save springboot-devops-demo -o springboot-devops-demo.tar
+docker cp springboot-devops-demo.tar minikube:/springboot-devops-demo.tar
+docker exec minikube ctr images import /springboot-devops-demo.tar
+kubectl describe pod springboot-deployment-86cb4bbd58-59csf
+docker build -t springboot_devops_demo .
+docker save springboot_devops_demo -o springboot_devops_demo.tar  
+docker cp springboot_devops_demo.tar minikube:/springboot_devops_demo.tar
+docker exec minikube ctr -n k8s.io images import /springboot_devops_demo.tar
+docker exec minikube ctr -n k8s.io images ls | findstr springboot   
+kubectl describe pod springboot-deployment-66775f896b-kbrq7
+docker rmi springboot_devops_demo
+kubectl config get-contexts
+kubectl config use-context docker-desktop
+minikube image build -t springboot-devops-demo .
+kubectl describe pod springboot-deployment-8bc9b6bd9-ngx2j  
+kubectl delete deployment springboot-deployment      
+kubectl apply -f k8s/deployment.yaml
+kubectl get pods    
+kubectl describe pod springboot-deployment-86cb4bbd58-r54vq
+kubectl apply -f k8s/service.yaml
+kubectl get svc  
+minikube service springboot-service 
+
+new image 
+kubectl rollout restart deployment springboot-deployment 
+minikube image build -t springboot-devops-demo:v2 .
+kubectl set image deployment/springboot-deployment springboot-container=springboot-devops-demo:v2
+kubectl rollout history deployment/springboot-deployment
+kubectl rollout undo deployment/springboot-deployment
+kubectl rollout status deployment/springboot-deployment
+```
+
+

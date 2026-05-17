@@ -8,6 +8,7 @@ import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+import java.util.Map;
 
 import java.math.BigDecimal;
 import java.time.Instant;
@@ -39,5 +40,28 @@ public class TransactionController {
         return searchService.search(criteria).stream()
                 .map(TransactionResponse::from)
                 .toList();
+    }
+
+    @GetMapping("/env")
+    public Map<String, String> getEnvironment() {
+
+        String environment = System.getenv().getOrDefault("APP_ENV", "not-sent");
+        String team = System.getenv().getOrDefault("TEAM_NAME", "not-sent");
+
+        return Map.of(
+                "environment ", environment,
+                "team ", team
+        );
+    }
+
+    @GetMapping("/secret")
+    public Map<String, String> getSecret() {
+        String dbUser = System.getenv().getOrDefault("DB_USER", "not-set");
+        String dbPassword = System.getenv().getOrDefault("DB_PASSWORD", "not-set");
+
+        return Map.of(
+                "dbUser", dbUser,
+                "dbPassword", dbPassword
+        );
     }
 }

@@ -6,11 +6,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-      </profile>
-      <profile name="Annotation profile for transaction-monitor" enabled="true">
-        <sourceOutputDir name="transaction-monitor/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="transaction-monitor/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
         <module name="transaction-monitor" />
       </profile>
     </annotationProcessing>
